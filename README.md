@@ -40,7 +40,7 @@ Libraries
 ## Screenshots
 
 ### Authentication Page
-![Authentication Page](screenshots/login.png)
+![Authentication Page](screenshots/auth.png)
 
 ### Chat Interface
 ![Chat Page](screenshots/chat.png)
