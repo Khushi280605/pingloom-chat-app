@@ -89,7 +89,7 @@ src
 Clone the repository
 
 ```
-git clone https://github.com/yourusername/pingloom-chat-app.git
+git clone https://github.com/Khushi280605/pingloom-chat-app.git
 ```
 
 Go into the project folder
