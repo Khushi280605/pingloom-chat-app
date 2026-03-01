@@ -39,8 +39,8 @@ Libraries
 
 ## Screenshots
 
-### Login Page
-![Login Page](screenshots/login.png)
+### Authentication Page
+![Authentication Page](screenshots/login.png)
 
 ### Chat Interface
 ![Chat Page](screenshots/chat.png)
