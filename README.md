@@ -5,7 +5,7 @@ It allows users to sign up, create profiles, search for other users, and send me
 
 The application uses Firebase Firestore for real-time updates, so messages appear instantly without refreshing the page.
 
----
+
 
 ## Features
 
@@ -18,7 +18,7 @@ The application uses Firebase Firestore for real-time updates, so messages appea
 - Media gallery for shared images
 - Responsive chat interface
 
----
+
 
 ## Tech Stack
 
@@ -36,7 +36,6 @@ Backend / Services
 Libraries
 - React Toastify
 
----
 
 ## Screenshots
 
@@ -49,7 +48,7 @@ Libraries
 ### Profile Setup
 ![Profile Page](screenshots/profile.png)
 
----
+
 
 ## Project Structure
 
@@ -82,7 +81,7 @@ src
 └── index.css
 ```
 
----
+
 
 ## Installation
 
@@ -110,7 +109,7 @@ Run the project
 npm run dev
 ```
 
----
+
 
 ## Firebase Setup
 
@@ -123,7 +122,6 @@ npm run dev
 src/config/firebase.js
 ```
 
----
 
 ## Cloudinary Setup
 
@@ -135,7 +133,6 @@ src/config/firebase.js
 src/lib/upload.js
 ```
 
----
 
 ## Future Improvements
 
